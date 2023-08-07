@@ -1,5 +1,5 @@
-# Response_Generation_Baseline_based_SLM_lgu
-: 검색된 passage (LGU 검색 결과)를 이용한 SLM (BART-base)의 응답 생성 Task 실험 결과 
+# Response_Generation_Baseline_based_SLM_wiki_lgu
+: 검색된 passage (LGU Data 검색 결과)를 이용한 SLM (BART-base)의 응답 생성 Task 실험 결과 
 
 ## 1. Training 
     train_file.sh 실행 
