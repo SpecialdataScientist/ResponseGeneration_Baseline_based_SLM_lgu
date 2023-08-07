@@ -1,5 +1,5 @@
-# Reference_Generation_SLM_wiki_lgu
-: SLM (BART-base) 기반 CoT (Chain-of-thought)의 reasonig 정보 생성을 위한 reference 생성 Task 실험 결과로서 검색된 passage (wiki + LGU Data 검색 결과)를 이용 
+# Response_Generation_CoT_based_SLM_wiki_lgu
+: 생성된 reference와 검색된 passage (wiki + LGU Data 검색 결과)를 이용하는 SLM (BART-base) 기반 CoT (Chain-of-thought)를 응답 생성 Task에 적용 
 
 ## 1. Training 
     train_file.sh 실행 
