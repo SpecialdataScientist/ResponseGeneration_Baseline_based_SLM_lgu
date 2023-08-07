@@ -1,4 +1,5 @@
 # ResponseGeneration_Baseline_based_SLM_lgu
+: Baseline model로 SLM (BART-base)를 이용해 검색된 passage (LGU Data 검색 결과)를 이용해 응답 생성 Task 수행
 
 ## 1. Training 
     train_file.sh 실행 
